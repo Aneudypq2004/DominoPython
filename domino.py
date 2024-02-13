@@ -14,12 +14,7 @@ class FichaDomino:
 
 
 class Domino():
-    '''
-    jugador1 = []
-    jugador2 = []
-    jugador3 = []
-    jugador4 = []
-    '''
+    
     def __init__(self, amountPlayer):
 
         self.amountPlayer = amountPlayer
